@@ -1,6 +1,6 @@
 # FireDucks
 
-FireDucks is the dataframe library for python. It is being developed with speed and pandas compatibility in mind.
+FireDucks is a dataframe library for python. It is being developed with speed and pandas compatibility in mind.
 
 Web site: <https://fireducks-dev.github.io>
 
