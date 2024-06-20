@@ -50,8 +50,8 @@ use pandas DataFrame, please make sure to enable the hook to avoid any
 unintended executional issues.
 
 &#x1f4e2; _The import hook feature has changed its name to `fireducks.pandas` from
-FireDucks [0.11.0]({{< ref "docs/release-note#v0.11.0" >}}). An old module name
-`fireducks.imhook` is also available as an alias._
+FireDucks [0.11.0](https://fireducks-dev.github.io/docs/release-note/#v0.11.0). 
+An old module name `fireducks.imhook` is also available as an alias._
 
 ### Explicit Import 
 
@@ -61,7 +61,7 @@ the import statement as follows.
 
 ```python
 # import pandas as pd
-import fireducks.pandas as ContactContact
+import fireducks.pandas as pd
 ```
 
 &#x1f4bb; **Web site: <https://fireducks-dev.github.io>**
