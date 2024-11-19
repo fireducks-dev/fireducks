@@ -15,8 +15,10 @@ and it can be simply installed using `pip` as follows:
 pip install fireducks
 ```
 
-Please make sure you are using **Python >=3.8, <=3.12**, otherwise you may encounter
+Please make sure you are using **Python >3.8, <=3.12**, otherwise you may encounter
 error saying: *"No matching distribution found for fireducks"*.
+
+&#x26a0; Since FireDucks 1.1.0, we have upgraded dependent pyarrow to 18.0.0. Therefore, python 3.8 is no longer supported.
 
 ## Usage
 
