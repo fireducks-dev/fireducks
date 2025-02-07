@@ -6,6 +6,20 @@ FireDucks is a high-performance compiler-accelerated dataframe library for pytho
 
 [FireDucks](https://pypi.org/project/fireducks/) is released on pypi.org under the 3-Clause BSD License (the Modified BSD License).
 
+## Let's experience the power of FireDucks!&#x1f986;&#x1f986;&#x1f986;
+
+Anyone can experience the ease of use and high-speed performance of FireDucks for free.
+
+If you have a Google account, you can try it out right now on Google colab.
+Please select 'v2-8 TPU' from the runtime settings, because it has high number of cpu cores and runtime memory.
+
+| notebook contents | sample notebook links(open in Google colab) |
+|-----------|---------|
+| **A short presentation of some frequently used data analysis using pandas.** | [pandas_nyc_demo.ipynb](https://colab.research.google.com/github/fireducks-dev/fireducks/blob/main/notebooks/nyc_demo/pandas_nyc_demo.ipynb)               |
+| **A short presentation of some frequently used data analysis using FireDucks.** | [fireducks_pandas_nyc_demo.ipynb](https://colab.research.google.com/github/fireducks-dev/fireducks/blob/main/notebooks/nyc_demo/fireducks_pandas_nyc_demo.ipynb)     |
+| **Demonstrating true strength of FireDucks in Query planning and optimization.** | [tpch-query3-pandas-fireducks-cudf.ipynb](https://colab.research.google.com/github/fireducks-dev/fireducks/blob/main/notebooks/tpch-query3-pandas-fireducks-cudf.ipynb)               |
+| **NYC Taxi trips (Jan-2015) analysis using FireDucks, pandas and polars.**      | [FireDucks_vs_Pandas_vs_Polars.ipynb](https://colab.research.google.com/github/fireducks-dev/fireducks/blob/main/notebooks/FireDucks_vs_Pandas_vs_Polars.ipynb)               |
+
 ## Install 
 
 FireDucks is currently available for Linux (manylinux) on the x86\_64 architecture (we will support it for other platforms based on user requests) 
