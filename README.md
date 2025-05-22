@@ -86,4 +86,4 @@ This repository is used for communication such as issue report and Q&A. [Please 
 
 &#x2709; Contact: <mailto:contact@fireducks.jp.nec.com>
 
-&#x1f91d;Slack: <https://join.slack.com/t/fireducks/shared_invite/zt-2j4lucmtj-IGR7AWlXO62Lu605pnBJ2w>
+&#x1f91d;Slack: <https://join.slack.com/t/fireducks/shared_invite/zt-34qpdgr6q-_iWdIoZW4l_hGhljKS0pyg>
